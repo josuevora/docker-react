@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          I was changed in a feature branch01
+          Text changed on feature/branch02
         </p>
         <a
           className="App-link"
